@@ -22,7 +22,7 @@ function Projects() {
         nateRole="Executive Producer, Producer, Director, Assembly Editor"
         gayLynnRole="Producer, 1st AD, Production Designer, Extras Casting"
         src={thistlewitsPoster}
-        href="https://vimeo.com/387565587/397cabfd3f"
+        href="https://www.youtube.com/watch?v=yRrPkfvINH0"
         actionText="Watch Trailer"
       />
       <ProjectCard
