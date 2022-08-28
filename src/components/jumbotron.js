@@ -28,7 +28,7 @@ function Jumbotron() {
           </div>
           <div className="inline my-12">
             <WatchNowCTA
-              href="https://vimeo.com/387565587/397cabfd3f"
+              href="https://www.youtube.com/watch?v=yRrPkfvINH0"
               text="Watch The Trailer"
               textColor="white"
               backgroundColor="transparent"
