@@ -4,6 +4,7 @@ import ProjectCard from "./project_card"
 
 import chapterXPoster from "../images/chapter_x_poster.jpg"
 import thistlewitsPoster from "../images/thistlewits_poster.jpg"
+import dreamsPoster from "../images/even_in_dreams.jpg"
 import doublePlayPoster from "../images/double_play_poster.jpg"
 import prescriptionLovePoster from "../images/prescription_for_love_poster.jpg"
 import matchmakerChristmasPoster from "../images/matchmaker_christmas_poster.jpg"
@@ -15,6 +16,16 @@ function Projects() {
     <div className="flex flex-col justify-center items-center bg-gray-100">
     <h2 className="text-black text-6xl m-12">Projects</h2>
     <div className="flex flex-row flex-wrap justify-center items-center px-0">
+    <ProjectCard
+        title="Even in Dreams"
+        director="Nathan Smith"
+        company="Future Movie Productions"
+        nateRole="Executive Producer, Producer, Director, Assembly Editor"
+        gayLynnRole="Producer, 1st AD, Production Designer, Extras Casting"
+        src={dreamsPoster}
+        href="https://www.imdb.com/title/tt11827282/"
+        actionText="Watch Trailer"
+      />
       <ProjectCard
         title="The Thistlewits"
         director="Nathan Smith"
